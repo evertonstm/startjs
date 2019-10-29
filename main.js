@@ -1,6 +1,6 @@
 //requisição Ajax
 
-'////SEM AXIOS
+////SEM AXIOS
 
 // var minhaPromise = function(){
 //   return new Promise(function(resolve, reject){
